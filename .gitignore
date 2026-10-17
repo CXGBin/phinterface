@@ -1,0 +1,5 @@
+# Local backups and temporary files
+*.bak
+*.tmp
+*~
+__pycache__/
