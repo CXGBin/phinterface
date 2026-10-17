@@ -1,0 +1,6 @@
+{
+  "name": "phinterface-deob-tools",
+  "private": true,
+  "description": "Lua 反混淆与 AST 等价校验工具",
+  "dependencies": { "luaparse": "0.3.1" }
+}
